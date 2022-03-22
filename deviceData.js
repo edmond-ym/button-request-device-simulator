@@ -11,5 +11,5 @@ const DeviceData=[
    
 ];
 
-const APILink="https://143.198.74.202/deviceAPI/v1";
+const APILink="{API Base Url}";
 
